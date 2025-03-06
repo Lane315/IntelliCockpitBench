@@ -316,4 +316,4 @@ To calculate the sample_pearson and system_pearson scores, you can find the rele
   ```bibtex
   ```
 # 🙏 Acknowledgement
-We are very grateful to release all the open source projects mentioned in this article with their models and code as open source contributions.
+We would like to express our sincere gratitude to all the open-source projects mentioned in this repository. We deeply appreciate the contribution of their models and code, which have greatly influenced and supported the development of our project. 
