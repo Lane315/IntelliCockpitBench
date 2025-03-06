@@ -1,0 +1,1 @@
+python gpt4o_example.py --image ./images  --english_test_jsonl ./test_jsonl/english_test_jsonl --chinese_test_jsonl ./test_jsonl/chinese_test_jsonl --output_folder ./tese_result

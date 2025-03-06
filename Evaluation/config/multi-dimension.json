@@ -1,0 +1,16 @@
+{
+  "OpenAI": {
+    "api_key": "*****",
+    "api_url": "******",
+    "model_name": "******"
+  },
+  "Paths": {
+    "dimension_set_filepath": "config_carvqa_v2/dimension_set.json",
+    "dimension_def_filepath": "config_carvqa_v2/dimension_definition.json",
+    "subcategory_mapping": "config_carvqa_v2/subcategory_question_mapping.json",
+    "model_answer_dir": "data/jsonl",
+    "excel_dir": "data/excel",
+    "model_judgement_dir": "data/judgement",
+    "img_root_dir": "data/images"
+  }
+}

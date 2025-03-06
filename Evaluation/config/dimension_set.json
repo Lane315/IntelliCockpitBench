@@ -1,0 +1,21 @@
+{
+  "Description": [["Factuality", 3], ["User Satisfaction", 3], ["Visual Location", 3], ["Clarity", 1], ["Naturalness", 1], ["Richness", 2], ["Completeness", 2]],
+  "Vehicle Type Recognition": [["Factuality", 3], ["User Satisfaction", 3], ["Visual Location", 3], ["Clarity", 1], ["Completeness", 2]],
+  "Information Extraction": [["Factuality", 3], ["User Satisfaction", 3], ["Visual Location", 3], ["Clarity", 1], ["Completeness", 2]],
+  "Object Recognition": [["Factuality", 3], ["User Satisfaction", 3], ["Visual Location", 3], ["Clarity", 1], ["Completeness", 2]],
+  "Emotion Recognition": [["Factuality", 3], ["User Satisfaction", 3], ["Visual Location", 3], ["Clarity", 1]],
+  "Behavior Recognition": [["Factuality", 3], ["User Satisfaction", 3], ["Visual Location", 3], ["Clarity", 1]],
+  "Traffic Laws and Regulations": [["Factuality", 3], ["User Satisfaction", 3], ["Visual Location", 3], ["Clarity", 1], ["Completeness", 1], ["Responsibility", 2]],
+  "Geographical and Environmental Information": [["Factuality", 3], ["User Satisfaction", 3], ["Visual Location", 3], ["Clarity", 1], ["Completeness", 1], ["Responsibility", 2]],
+  "Socio-cultural Knowledge": [["Factuality", 3], ["User Satisfaction", 3], ["Visual Location", 3], ["Clarity", 1], ["Completeness", 1], ["Responsibility", 2]],
+  "General Knowledge": [["Factuality", 3], ["User Satisfaction", 3], ["Visual Location", 3], ["Clarity", 1], ["Completeness", 1], ["Responsibility", 2]],
+  "Quantitative Analysis": [["Factuality", 3], ["User Satisfaction", 3], ["Visual Location", 3], ["Clarity", 1]],
+  "Distance Measurement": [["Factuality", 3], ["User Satisfaction", 3], ["Visual Location", 3], ["Clarity", 1]],
+  "Angle Measurement": [["Factuality", 3], ["User Satisfaction", 3], ["Visual Location", 3], ["Clarity", 1]],
+  "Area and Volume": [["Factuality", 3], ["User Satisfaction", 3], ["Visual Location", 3], ["Clarity", 1]],
+  "Probability Inference/Intent Recognition": [["Factuality", 3], ["User Satisfaction", 3], ["Visual Location", 3], ["Clarity", 1], ["Responsibility", 2], ["Logical Coherence", 2]],
+  "Driving Decisions and Suggestions": [["Factuality", 3], ["User Satisfaction", 3], ["Visual Location", 3], ["Clarity", 1], ["Responsibility", 3], ["Logical Coherence", 2], ["Completeness", 2]],
+  "Creative": [["Factuality", 3], ["User Satisfaction", 3], ["Visual Location", 3], ["Clarity", 1], ["Creativity", 2]],
+  "Translation": [["Factuality", 3], ["User Satisfaction", 3], ["Visual Location", 3], ["Clarity", 1], ["Completeness", 2]],
+  "Others": [["Factuality", 3], ["User Satisfaction", 3], ["Visual Location", 3], ["Clarity", 1], ["Completeness", 2]]
+}

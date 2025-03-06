@@ -1,0 +1,1 @@
+EXCLUDE_FILE_PATH = "dataset/excluded_images/excluded_images.txt"

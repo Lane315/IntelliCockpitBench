@@ -1,0 +1,7 @@
+{
+    "Description": 0.7,
+    "Recognition": 0.1,
+    "World Knowledge Q&A": 0.1,
+    "Reasoning": 0.1,
+    "Others": 0.7
+}

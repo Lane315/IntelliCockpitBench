@@ -1,0 +1,4 @@
+image_path:
+  - './images'
+sample_number: 3
+epoch: 1

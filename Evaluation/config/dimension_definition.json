@@ -1,0 +1,12 @@
+{
+  "Factuality": "Whether the information provided in the response is accurate and based on reliable facts and data, or derived from the content in the provided images, and whether it helps answer the user’s question.",
+  "User Satisfaction": "Whether the response meets the user’s question and needs, and provides a comprehensive and appropriate answer to the question.",
+  "Visual Location": "Whether the response accurately perceives the specific orientation in the image when the user’s question involves specific spatial orientation.",
+  "Clarity ": "Whether the response is clear and understandable, and whether it uses concise language and structure so that the user can easily understand it.",
+  "Naturalness": "Whether the content of the response is fluent and smooth, consistent with everyday language norms and colloquial expressions.",
+  "Richness": "Whether the response includes rich info, depth, context, diversity, detailed explanations and examples to meet user needs and provide a comprehensive understanding.",
+  "Completeness": "Whether the response provides sufficient information and details to meet the user’s needs, and whether it avoids omitting important aspects.",
+  "Responsibility": "Whether the recommendations or information provided in the response are practical and responsible, and whether they consider potential risks and consequences and comply with safety standards.",
+  "Logical Coherence": "Whether the response maintains overall consistency and logical coherence between different sections, avoiding self-contradiction.",
+  "Creativity": "Whether the response is innovative or unique, providing novel insights or solutions."
+}

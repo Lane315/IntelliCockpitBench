@@ -1,0 +1,21 @@
+{
+    "Description": "Description",
+    "Vehicle Type Recognition": "Vehicle Type Recognition",
+    "Information Extraction": "Information Extraction",
+    "Object Recognition": "Object Recognition",
+    "Emotion Recognition": "Emotion Recognition",
+    "Behavior Recognition": "Behavior Recognition",
+    "Traffic Laws and Regulations": "Traffic Laws and Regulations",
+    "Geographical and Environmental Information": "Geographical and Environmental Information",
+    "Socio-cultural Knowledge": "Socio-cultural Knowledge",
+    "General Knowledge": "General Knowledge",
+    "Quantitative Analysis": "Quantitative Analysis",
+    "Distance Measurement": "Distance Measurement",
+    "Angle Measurement": "Angle Measurement",
+    "Area and Volume": "Area and Volume",
+    "Probability Inference/Intent Recognition": "Probability Inference/Intent Recognition",
+    "Driving Decisions and Suggestions": "Driving Decisions and Suggestions",
+    "Creative": "Creative",
+    "Translation": "Translation",
+    "Others": "Others"
+}
