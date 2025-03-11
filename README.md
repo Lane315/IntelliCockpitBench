@@ -7,11 +7,6 @@
   <br>
 </div>
 
-## 📰 News
-* **[2025.03.]**  
-* **[2025.02.28]**  🔥 We have released **IntelliCockpitBench: A Comprehensive Benchmark to Evaluate VLMs for Intelligent Cockpit**. We proposed a task classification for intelligent cockpit scenarios, built the IntelliCockpitBench dataset and process framework. Check out the [paper](https://arxiv.org/abs/).The dataset is coming soon.
-
-
 ## <img id="painting_icon" width="3%" src="assets/car.ico"> IntelliCockpitBench: A Comprehensive Benchmark for Intelligent Cockpits
 The rise of sophisticated Vision-Language Models (VLMs) has significantly advanced intelligent cockpits, transforming them into next-generation interfaces for human-computer interaction. However, current benchmarks for Visual Question Answering (VQA) in vehicular systems are mostly limited to decision-making scenarios like autonomous driving, leaving a significant gap in evaluating non-decision-making use cases aimed at enhancing user experience and interaction.
 
@@ -308,12 +303,3 @@ To calculate the sample_pearson and system_pearson scores, you can find the rele
 2. Ensure you modify the file paths for the evaluation files accordingly.
 3. Convert the JSONL file to an Excel format (.xlsx) by using the script located at: `Evaluation/tool/judge_jsonl_2_excel.py`.
 4. After conversion, you can then calculate the sample_pearson and system_pearson scores based on the Excel file.
-
-
-
-# 📜 Citation
-
-  ```bibtex
-  ```
-# 🙏 Acknowledgement
-We would like to express our sincere gratitude to all the open-source projects mentioned in this repository. We deeply appreciate the contribution of their models and code, which have greatly influenced and supported the development of our project. 
