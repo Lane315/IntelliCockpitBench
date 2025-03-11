@@ -1,13 +1,9 @@
 <div align="center">
-<h3> IntelliCockpitBench: A Comprehensive Benchmark to Evaluate VLMs for Intelligent Cockpit </h3>
+<h1> IntelliCockpitBench: A Comprehensive Benchmark to Evaluate VLMs for Intelligent Cockpit </h1>
 
-[arXiv](https://arxiv.org/abs/) 
-[License](https://github.com/Lane315/IntelliCockpitPrevious/main/LICENSE) 
-[Home Page]()
-  <br>
 </div>
 
-## <img id="painting_icon" width="3%" src="assets/car.ico"> IntelliCockpitBench: A Comprehensive Benchmark for Intelligent Cockpits
+## <img id="painting_icon" width="3%" src="assets/car.ico"> Introduction
 The rise of sophisticated Vision-Language Models (VLMs) has significantly advanced intelligent cockpits, transforming them into next-generation interfaces for human-computer interaction. However, current benchmarks for Visual Question Answering (VQA) in vehicular systems are mostly limited to decision-making scenarios like autonomous driving, leaving a significant gap in evaluating non-decision-making use cases aimed at enhancing user experience and interaction.
 
 To address this gap, we introduce **IntelliCockpitBench**, a diverse and comprehensive benchmark designed to evaluate the performance of VLMs in intelligent cockpit settings. Key highlights of IntelliCockpitBench include:
