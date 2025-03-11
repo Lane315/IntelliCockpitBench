@@ -13,7 +13,7 @@ except:
     from .api_key import API_KEY
     from . import utils
 #client = OpenAI(api_key=API_KEY)
-client = OpenAI(api_key="sk-dFaeaYqsbNjkGrpiEc0f621180614168B807C893722bFb04", base_url="https://one-api.glm.ai/v1")
+client = OpenAI(api_key="", base_url="")
 import json
 import logging
 
