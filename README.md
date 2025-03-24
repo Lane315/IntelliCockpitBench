@@ -160,7 +160,7 @@ More detailed explanation of the file functionalities is as follows:
 │   ├── image_question                        # Directory for storing image-question-related data (if applicable)
 │   └── images                                # Directory for storing input images
 ├── Model_infer                               # Model inference module for testing and evaluation
-│   └── exmaple                               # Examples of running inference on different models
+│   └── example                               # Examples of running inference on different models
 │       ├── glm4v_example.py                  # Example of using the GLM-4V model for inference
 │       ├── gpt4o_example.py                  # Example of using the GPT-4O model for inference
 │       ├── images                            # Directory for storing test images for inference
@@ -291,7 +291,7 @@ You can find links to other models in the table below.
 ## Step 2: Calculate the Final Result
 To calculate the final result, run the compute_avg_score.py script with the following command:
 ```python
-python compute_avg_score.py --directory english_test_judgement.jsonl
+python compute_avg_score.py data/judgement
 ```
 
 To calculate the sample_pearson and system_pearson scores, you can find the relevant files in the `Evaluation/metric directory`.
