@@ -71,7 +71,7 @@ def run(args):
     base=args.output_folder
     test_jsonl_list= [english_test_jsonl, chinese_test_jsonl]
     for test_jsonl_path in  test_jsonl_list:
-        output_jsonl_path = os.path.join(base, os.path.basename(test_jsonl_path).replace('.jsonl', '_GLM-4.jsonl'))
+        output_jsonl_path = os.path.join(base, os.path.basename(test_jsonl_path).replace('.jsonl', '_GPT4o.jsonl'))
         main(test_jsonl_path, output_jsonl_path,args.image)
 
 
